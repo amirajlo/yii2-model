@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-      "amirajlo\\main\\": "src"
+      "amirajlo\\model\\": "src"
     }
   }
 }
