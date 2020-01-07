@@ -3,6 +3,9 @@
   "description": "custom model for yii2",
   "type": "library",
   "keywords": ["yii2", "yii", "yiiframeowrk", "custom model","extension"],
+
+  "homepage": "https://github.com/amirajlo/yii2-model",
+  "type": "yii2-extension",
   "license": "BSD-3-Clause",
   "authors": [
     {
