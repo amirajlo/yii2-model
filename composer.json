@@ -1,0 +1,32 @@
+{
+  "name": "amirajlo/yii2-model",
+  "description": "customize model  for Yii 2.0 framework.",
+  "keywords": [
+    "yii2",
+    "extension",
+    "model"
+  ],
+  "homepage": "https://github.com/amirajlo/yii2-model",
+  "type": "yii2-extension",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "amirajlo",
+      "email": "amirajlo@yahoo.com",
+      "homepage": "http://www.goyii.ir/"
+    }
+  ],
+  "require": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "kartik\\dialog\\": "src"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}
